@@ -1,0 +1,1 @@
+python netr_advanced.py دومن الموقع هنا.com -t 200 -d 0.01 -m 10000
